@@ -2,7 +2,7 @@
 - 👀 I’m interested in making friends
 - 🌱 I’m currently learning Computer Networks
 - 💞️ I’m looking to collaborate on Etherum projects
-- 📫 How to reach me malagon@mines.edu
+- 📫 malagon@mines.edu
 
 <!---
 jhonyboy47/jhonyboy47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
