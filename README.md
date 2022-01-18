@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhonyboy47
 - 🤩 I’m interested in making friends
-- 🌱 I’m currently learning Computer Networks
+- 🌱 I’m currently learning Blockchain development with Solidity
 - 💞️ I’m looking to collaborate on Etherum projects
 - 📫 malagon@mines.edu
 
