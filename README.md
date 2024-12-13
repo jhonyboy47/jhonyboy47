@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jhonyboy47
 - 🤩 I’m interested in making friends
 - 🌱 I’m currently learning Blockchain development with Solidity and working at FlightAware
-- 💞️ I’m looking to collaborate on Etherum projects
 - 📫 jhonathanmalagontx@gmail.com
 
 <!---
