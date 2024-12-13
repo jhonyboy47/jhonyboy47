@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhonyboy47
-- 🤩 I’m interested in making friends
-- 🌱 I’m currently learning Blockchain development with Solidity and working at FlightAware
+- 🤩 I’m interested in Crypto Technology and increasing financial literacy in both the middle and lower class
+- 🌱 I’m currently a Backend Software Engineer at Flightaware, also a founder for a Tech Start Up for Photography, and learning Blockchain development with Solidity
 - 📫 jhonathanmalagontx@gmail.com
 
 <!---
